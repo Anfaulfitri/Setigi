@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.setigi">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".profiledevelop"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".denah"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".tg_rapung"
+            android:parentActivityName=".rumahapung"/>
+        <activity android:name=".tg_radat"
+            android:parentActivityName=".rumahadatpapua"/>
+        <activity android:name=".tg_mmadina"
+            android:parentActivityName=".mushollamadinah"/>
+        <activity android:name=".tg_mpersia"
+            android:parentActivityName=".miniaturmasjidpersia"/>
+        <activity android:name=".tg_tanggaderajat"
+            android:parentActivityName=".tanggaderajat"/>
+        <activity android:name=".rumahapung"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".mushollamadinah"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".rumahadatpapua"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".miniaturmasjidpersia"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".tanggaderajat"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".tg_jembatan"
+            android:parentActivityName=".jembatan_peradaban"/>
+        <activity android:name=".jembatan_peradaban"
+            android:parentActivityName=".wisata"/>
+        <activity android:name=".lokasi"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".fasilitas"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".profilewisata"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".wisata"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/title_activity_splash_screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

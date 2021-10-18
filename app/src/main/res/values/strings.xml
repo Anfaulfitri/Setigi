@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Virtual Tour</string>
+    <string name="profile">Profile Wisata</string>
+    <string name="wisata"> Wisata </string>
+    <string name="lokasi">Lokasi</string>
+    <string name="informasi">Informasi</string>
+    <string name="tourguide">Tour Guide</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="denah">Denah</string>
+    <string name="developper">Profile Developper</string>
+    <string name="title_activity_splash_screen">Virtual Tour</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <!--Profile-->
+    <string name="sejarah_profile">Wisata Setigi berdiri berdasarkan permasalahan yang ada di desa selama puluhan tahun, masalah yang terjadi adalah masalah paska tambang.
+\n\nTempat yang dijadikan wisata ini merupakan tempat bekas dari penambangan, dimana dulunya dimanfaatkan oleh warga sekitar sebagai tempat pembuangan sampah. Sehingga efek negatif yang ditimbulkan apabila terjadi hujan didaerah tersbut yakni bau yang menyengat, padahal letak dari tempat tersebut berdekatan dengan perkampungan.
+\n\nOleh karena itu pada masa pemilihan kepala desa baru, desa sekapuk mengalami transisi atau perubahan, yakni dengan visi misi membuat sebuah wisata atau taman desa. \n\nSetelah kepala desa sekarang yang terpilih, yakni Bapak Abdul Halim, pada saat 100 hari setelah dilantik, program yang dilaksanakan yang pertama adalah program pembersihan sampah yang dibantu oleh masyarakat melalui gotong royong.
+        \n \nSetelah dilakukan gotong royong, maka langkah selanjutnya adalah dibentuknya sebuah tempat wisata, dimana harus melalui tinjauan ulang bersama pemeritah desa, toko masyarakat, BPD dan lembaga-lembaga lainnya untuk menyatukan visi dan misi, srta merealisasikan adanya tempat wisata.
+\n \nSementara untuk dana awal pembentukan wisata Setigi didapatkan dari masyarakat desa sekapuk, dengan bentuk menabung setiap bulan dan akan menjadi Saham.
+\n\nSehingga pada tahun 2019 dilakukan pembangunan tempat wisata dan pada tahun 2020 telah dibuka wisata Setigi yang bahkan sudah memperoleh respon positif dari semua masyarakat.
+</string>
+
+    <string name="jembatan_peradaban">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Jembatan Peradaban". Jembatan Peradaban merupakan salah satu tempat foto yang paling sering dikunjungi.
+\n\nAdapun terbentuknya jembatan peradaban karena jembatan tersebut menggambarkan sebuah penghubung dari jaman kayu ke jaman batu.
+\n\nArsitektur bangunan yang disajikan di jembatan peradaban mirip dengan jembatan yang berada di Multnomah Falls di negara bagian Oregon, Amerika Serikat.
+\n\nJembatan peradaban tersebut dibangun sesuai dengan konsep dari wisata setigi sendiri yakni yang berhubungan dengan Batu, Air dan Bukit.</string>
+
+    <string name="tangga_derajat">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Tangga Derajat". Tangga derajat terdiri dari 99 anak tangga, dimana 99 anak tangga tersebut melambangkan asmaul husna.
+        \n\nTangga derajat dapat berfungsi sebagai jembatan antara Wisata Setigi dengan terminal agro wisata ke kebun pak inggih.
+    \n\nTangga derajat dibentuk untuk mengajarkan bagaimana cara kita meraih sebuah kesuksesan secara maksimal, yakni melalui usaha-usaha yang harus dilakukan, seperti halnya menaiki anak tangga yang berjumlah 99 tersebut untuk bisa sampai di puncak.
+    </string>
+
+    <string name="miniatur_mushola_persia">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Miniatur Musholla Persia". Miniatur musholla persia dibangun dengan maksud untuk mengingatkan masuknya islam ke tanah Jawa.
+        \n\nSejarah dari Miniatur mushola persia juga berhubungan dengan cikabakal dari peradaban di era penjajahan dan kerajaan, atau bisa diartikan sebagai hal yang patut kita syukuri karena ada pedagang dari timur tengah (Persia) ditengah adanya berbagai peristiwa terjadinya penjajahan, sehingga rakyat saat itu bisa mendapatkan pendidikan kembali, sehingga bisa berfikir dan puna keberanian lagi.
+    \n\nMasuknya islam ke Nusanara sejatinya berasal dari Timur Tengah (Wilayah Arab) sejak abad ke-7. Sedangkan Persia dan Gujarat merupakan tempat singggah pedagang Arab yang memperkenalkan islam ke Nusantara</string>
+
+    <string name="rumah_adat_papua">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Rumah Adat Papua". Rumah Adat Papua dibentuk dengan tujuan untuk mengingatkan kita, bahwa kita masih mempunyai saudara yang berada di papua.
+    \n\nRumah adat papua juga mengajarkan dan mengingatkan bahwa kita sebagai saudara tidak boleh mebeda-bedakan baik dari ras, suku atau bahkan warna kulit, sehingga dibanguna rumah adat tersebut.
+    \n\nRumah adat papua terletak disebrang jembatan peradaban, hal ini dimaksudkan untuk mengenalkan rumah adat tersebut melalui jambatan peradaban dan menyatukan semua kebudayaan masyarakat Indonesia tanpa ada perbedaan</string>
+
+    <string name="rumah_apung">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Rumah Apung". Rumah apung sendiri tidak memiliki filosofi, melainkan dibangun karena untuk menambah warna yang ada di wisata setigi.
+    \n\nRumah apung dibangun karena terinspirasi dari rumah apung-rumah apung diluar daerah, karena memang banyak rumah apung yang berada di Indonesia.
+    \n\nHal ini berhubungan dengan konsep wisata Setigi yakni dibangun karena untuk mengingatkan adat istiadat yang ada di Indonesia
+    \n\n Rumah apung biasanya juga dimanfaatkan pengunjung sebagai fasilitas tabahan untuk berfoto atau sebagai tempat berganti untuk melakukan foto prewedding yang dilakukan di Setigi. </string>
+
+    <string name="musholla_madina">Wisat Selo Tirto Giri juga mempunyai wisata yakni "Musholla Madina". Sama seperti halnya dengan rumah apung, musholla madina juga tidak memiliki filosofi secara khusus.
+    \n\nHal ini berbeda dengan Miniatur musholla persia yang memang menceritakan tentang masuknya islam yang dibawa oleh pedagang persia.
+    \n\nMiniatur Musholla Madina terletak disamping tangga derajat, dimana musholla tersebut biasanya dimanfaatkan masyarakat untuk melakukan ibadah, karena sudah dilengkap dengan kamar mandri yang ada.</string>
+<string name="textdenah">"Denah Spot Wisata \nSelo Tirto Giri (SETIGI)"</string>
+</resources>
+
